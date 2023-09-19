@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>Fakebook-Anna B.</title>
+		<style>
+			h1
+			{
+				color:red;
+			}
+			h1
+			{
+				font-size: 50px;
+			}
+			h1:hover
+			{
+				font-size: 70px; color: yellow;
+			}
+			img
+			{
+			height: 300px;
+			width: 300px;
+			}
+			img:hover
+			{
+			height: 500px;
+			width: 500px;
+			}
+			img:hover
+			{
+			-webkit-filter: grayscale(100%);
+			filter: grayscale(100%);
+			}
+		</style>
+		
+	</head>
+
+	<body>
+		<h1><b> FAKEBOOK </b></h1>
+		<p style="color: blue; font-size: 25px;"> <b>Omiljeni citat:</b></p>
+		<p> Život nije samo imati dobre karte,<br>
+		    već i dobro odigrati čak i kada su loše.</p>
+		<br>
+		<br>
+		<p><a href="https://www.youtube.com/watch?v=p_lqTtLMbN4" target="_blank">
+			<button>Zapjevajmo</button></a></p>	
+		<br>
+		<br>
+		<img src="https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L2pvYjcyOS0yNDMtdi5qcGc.jpg">
+		<br>
+		<br>
+		<p style="color:green; font-size: 25px;"><b><i> Ime:</b></i></p> 
+		<p style="font-size: 18px;">Anna <br></p>
+		<br>
+		<p style="color:green; font-size: 25px;"><b><i> Godine:</b></i></p> 
+		<p style="font-size: 18px;">30 <br></p>
+		<br>
+		<p style="color:green; font-size: 25px;"><b><i> Visina:</b></i></p> 
+		<p style="font-size: 18px;">1.70 m <br></p>
+		<br>
+		<p style="color:green; font-size: 25px;"><b><i> Živi u:</b></i></p> 
+		<p style="font-size: 18px;"> Perth, Australia <br></p>		
+	</body>
+</html>
